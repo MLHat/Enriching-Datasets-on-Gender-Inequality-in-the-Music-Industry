@@ -1,0 +1,8 @@
+This file serves to explain several of the variables that are collected through scraping the Top100
+	Name: contains the name of the festival
+	Country: the country in which the festival took place. In this case it is the Top100 Benelux thus the result will be either Netherlands, Belgium,
+		   or Luxemburg.
+	Genres: the main genres of the festival
+	Lineups: there are for tables containing lineups. These are 2017, 2018, 2019, and Other.
+		   the main focus of the study was 2017, 2018, and 2019 because this was the focus of the recent Female:pressure survey.
+		   The other_lineups however were collected because they could still contain relevant information for a different study.
